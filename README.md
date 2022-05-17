@@ -14,7 +14,7 @@ Examples:
 Specific solutions can be viewed showing each move:  
 ![alt text](https://github.com/LuckyKot/BFS_IDDFS/blob/3f0dcf7cc4cf3fa4d845691c18feb8b28952844e/example1.png)
 
-Until it reaches the final desired state:  
+Until it reaches the desired final state:  
 ![alt text](https://github.com/LuckyKot/BFS_IDDFS/blob/3f0dcf7cc4cf3fa4d845691c18feb8b28952844e/example2.png)
 
 Solution of 100 cases begins:  
