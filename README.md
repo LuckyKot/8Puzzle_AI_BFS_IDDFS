@@ -6,3 +6,5 @@ In my case:
 6 7 8
 
 Implemented with Breadth-first search and Iterative Deepening Depth-first search
+
+![Alt text](https://github.com/luckykot/BFS_IDDFS/example.png?raw=true)
