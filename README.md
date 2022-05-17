@@ -7,4 +7,18 @@ In my case:
 
 Implemented with Breadth-first search and Iterative Deepening Depth-first search
 
-![Alt text](https://github.com/luckykot/BFS_IDDFS/example.png?raw=true)
+Input8PuzzleCases.txt contains 100 test cases
+
+Examples:
+
+Specific solutions can be viewed showing each move:  
+![alt text](https://github.com/LuckyKot/BFS_IDDFS/blob/3f0dcf7cc4cf3fa4d845691c18feb8b28952844e/example1.png)
+
+Until it reaches the final desired state:  
+![alt text](https://github.com/LuckyKot/BFS_IDDFS/blob/3f0dcf7cc4cf3fa4d845691c18feb8b28952844e/example2.png)
+
+Solution of 100 cases begins:  
+![alt text](https://github.com/LuckyKot/BFS_IDDFS/blob/3f0dcf7cc4cf3fa4d845691c18feb8b28952844e/example3.png)
+
+Stats at the end of 100 cases:  
+![alt text](https://github.com/LuckyKot/BFS_IDDFS/blob/3f0dcf7cc4cf3fa4d845691c18feb8b28952844e/example4.png)
